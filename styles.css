@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-color: black;
+    font-family: Montserrat;
+}
+
+.btn{
+    margin-top: 3%;
+}
+
+.pay{
+color: white;
+margin-top: 2%;
+font-family: Sacramento;
+}
+
+.food{
+    padding: 1% 3% 10% 3%;
+    background-image: url(food.png);
+    background-size: 100% 100%; 
+}
+
+.text{
+    background-color: red;
+}
+
+.names{
+    color: yellow;
+    font-weight: 700;
+}
+
+.bold{
+    font-weight: 900; 
+    color: white;   
+}
